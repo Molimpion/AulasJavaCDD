@@ -11,4 +11,3 @@ public class Exercicio06 {
 			System.out.println(soma3 +" "+ soma5 +" "+ somatotal);
 	}
 }
-		
