@@ -16,6 +16,7 @@ public class Exercicio07 {
 		System.out.println("Masulino");	
 		}else
 			System.out.println("Sexo Indefinido");{
+		input.close();
 		}
 			
 	}
